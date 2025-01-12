@@ -1,1 +1,15 @@
 # SPAM_DETECTOR
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : SHAIK ABDUL KALAM
+
+**INTERN ID** : CT6WDOM
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot 2025-01-12 133214](https://github.com/user-attachments/assets/1af556d3-39d3-40ba-b679-9fc4a473a589)
